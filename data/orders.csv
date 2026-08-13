@@ -1,0 +1,6 @@
+order_id,warehouse,status,hours_to_sla,order_age_hours,warehouse_backlog
+ORD-1001,WH-A,packed,1.5,26,92
+ORD-1002,WH-A,processing,5,12,92
+ORD-1003,WH-B,ready_to_dispatch,9,8,45
+ORD-1004,WH-C,processing,2,30,78
+ORD-1005,WH-B,packed,14,6,45
